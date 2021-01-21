@@ -1,6 +1,5 @@
-#importing required liberaries
+#importing OpenCV
 import cv2 as cv
-import numpy as np
 
 #using haarcascade frontal face detector from OpenCV 
 haar_cascade = cv.CascadeClassifier("haarcascade_frontalface_default.xml")
