@@ -1,4 +1,4 @@
-#importing OpenCV
+#importing OpenCV library
 import cv2 as cv
 
 #using haarcascade frontal face detector from OpenCV 
