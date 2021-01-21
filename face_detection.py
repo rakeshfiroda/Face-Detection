@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 #importing required liberaries
 import cv2 as cv
 import numpy as np
@@ -36,10 +30,4 @@ while True:
 
 vid.release()
 cv.destroyAllWindows()
-
-
-# In[ ]:
-
-
-
 
